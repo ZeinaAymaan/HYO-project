@@ -1,0 +1,25 @@
+.header{
+    width:50%;
+    margin: 20px auto 20px auto;
+
+}
+h1{
+    color: rgb(97, 67, 231);
+    font-family: monospace;
+    font-size: 30pt;
+    text-align: center;
+
+}
+.paragraph{
+    margin: 0px 100px 0px 100px
+
+}
+p{
+    font-family: monospace;
+    font-size: 16pt;
+    text-align: center;
+}
+body{
+    background: linear-gradient( rgb(177, 226, 61), rgb(55, 223, 186));
+
+}
